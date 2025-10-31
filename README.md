@@ -1,2 +1,2 @@
 # Improving-Diabetes-Care-Coordination-through-Healthcare-Data-Integration
-This project analyzes fragmented diabetes care in California using public hospital datasets from the California Health and Human Services Open Data Portal. 
+I've always been interested in how data can transform healthcare delivery, particularly for patients managing chronic conditions. This project digs into how fragmented healthcare data impacts diabetes care in California. Using public hospital datasets from the California Health and Human Services Open Data Portal, I'm analyzing patterns in care coordination to uncover where the gaps are and how we might improve patient outcomes.
